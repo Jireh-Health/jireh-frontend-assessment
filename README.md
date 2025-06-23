@@ -1,6 +1,8 @@
 # Overview
 
-This is a simple react application that contains one component: `src/App.tsx`. Complete each task before moving on to the next.
+This is a simple react application that contains one component: `src/App.tsx`. 
+
+Fork this repository and complete the tasks listed below. Complete each task before moving on to the next.
 
 ## Task 1: Review the code
 
