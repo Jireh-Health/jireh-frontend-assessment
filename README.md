@@ -14,7 +14,7 @@ Fork this repository and complete the tasks listed below. Complete each task bef
 
 2. For each issue you identify:
    - Explain why it's problematic
-   - Propose a solution (you do not have to implement the fix, you can just suggest changes neccessary)
+   - Propose a solution and fix it within the code
    - Describe the benefits of your suggested improvement
 
 3. Additionally, suggest general improvements to the code to make it more readable and maintainable.
